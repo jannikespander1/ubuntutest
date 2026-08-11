@@ -5,6 +5,8 @@ Mitprojekttest
 
 **fed tekst**
 
+**total fed tekst**
+
 *kursiv*
 
 ```kode-blokke```
